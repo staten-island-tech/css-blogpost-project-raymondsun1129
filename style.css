@@ -1,16 +1,20 @@
+body{
+  background-color: #1F2833;
+}
+h1{
+  color: seagreen; 
+  font-size: 60px;
+}
+#id{
+  color: #F0FFFF;
+}
+.title{
+  text-align: center;
+  margin: 425px 600px;
+  background-color: #44A29E;
+  padding: 10px 20px;
 
-body{
-  background-color: #1F2833;
-}
-h1{
-  color: seagreen; 
-  font-size: 60px;
-}
-#id{
-  color: #66FCF1;
-}
-.title{
-  text-align: center;
+
 }
 .title{
   margin-top: 30px;
@@ -22,6 +26,7 @@ h1{
 .h2{
   color: #F0FFFF
   ;
+padding: 5px;
   text-align: center;
   font-size: 45px;
 }
@@ -29,7 +34,7 @@ h1{
   color: #F0FFFF
   ;
   text-align: center;
- 
+  
 font-size: 25px;
 }
  
@@ -38,54 +43,24 @@ font-size: 25px;
   text-align: center;
   font-size: 45px;
   color: #F0FFFF;
+  padding: 5px;
 }
 .h5{
+  text-align: center;
+  font-size: 25px;
+  color: #F0FFFF;
+}
+.h6{
+  text-align: center;
+  font-size: 45px;
+  color: #F0FFFF;
+  padding: 5px;
+}
+.h7{
   text-align: center;
   font-size: 25px;
   color: #F0FFFF;
 }
 body{
-  background-color: #1F2833;
-}
-h1{
-  color: seagreen; 
-  font-size: 60px;
-}
-#id{
-  color: #66FCF1;
-}
-.title{
-  text-align: center;
-}
-.title{
-  margin-top: 30px;
-}
-.title{
-  margin-bottom: 20px;
-  border: 5px solid #44A29E;
-}
-.h2{
-  color: #F0FFFF
-  ;
-  text-align: center;
-  font-size: 45px;
-}
-.h3{
-  color: #F0FFFF
-  ;
-  text-align: center;
- 
-font-size: 25px;
-}
- 
- 
-.h4{
-  text-align: center;
-  font-size: 45px;
-  color: #F0FFFF;
-}
-.h5{
-  text-align: center;
-  font-size: 25px;
-  color: #F0FFFF;
+  font-family: 'Poppins', sans-serif;
 }
